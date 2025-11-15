@@ -43,4 +43,47 @@ For major changes, please open an issue to discuss proposed updates.
 ## 📬 Contact
 
 If you’d like help improving this project, you may open an issue or request guidance.
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code & JetBrains settings
+.vscode/
+.idea/
+
+# Node modules (if the project grows later)
+node_modules/
+
+# Build / cache directories (future proof)
+dist/
+build/
+
+# System folders
+__MACOSX/
+MIT License
+
+Copyright (c) 2025 [victor kirimi]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
